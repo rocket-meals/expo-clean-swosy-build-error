@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SWOSYr",
-    "slug": "my-app",
+    "slug": "expo-ios-name-change-error",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -17,7 +17,8 @@
       "url": "https://u.expo.dev/c8fb459a-bac1-4c52-8a7c-7f4e097ed4ac"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "de.swosy.swosy",
     },
     "android": {
       "adaptiveIcon": {
